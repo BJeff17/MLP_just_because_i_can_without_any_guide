@@ -11,6 +11,6 @@ JK...or not!!!
 I feel little bit lonely today but it's not so bad i think i'm right.
 or not?? why am i writting that ? i don't know.
 
-i think is public but it seem so private i know no one will come here so i can write and feel free 
+i think it's public but it seem so private i know no one will come here so i can write and feel free 
 "c'est comme parler fort sachant que personne n'entendra"
 it's really nice!!!
