@@ -1,5 +1,5 @@
 # MLP_just_because_i_can_without_any_guide
-MLP model just using numpy(here use for simple image classification on MNIST and Fashion MNIST) just because i can !!!.
+MLP model just using numpy(here used for simple image classification on MNIST and Fashion MNIST) just because i can !!!.
 
 
 It was'nt so hard but i made some mistake and i had some misconception because of time 
